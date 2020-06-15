@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1> stan lee </h1>
+<h3>his career</h3>
+<p>Stan Lee was an American comic book writer, editor, publisher, and producer. 
+He rose through the ranks of a family-run business to become Marvel Comics' 
+primary creative leader for two decades, leading its expansion from a small division of a publishing house to a multimedia
+ corporation that dominated the comics industry.
+.</p>
+<h3>marvel</h3>
+<p>In collaboration with others at Marvel—particularly co-writer/artists Jack Kirby and Steve Ditko—he co-created numerous
+ popular fictional characters, including superheroes Spider-Man, the X-Men, Iron Man, Thor, the Hulk, Black Widow, 
+the Fantastic Four, Black Panther, Daredevil, Doctor Strange, Scarlet Witch and Ant-Man.
+ The superheroes he created seemed more meaningful and realistic.
+ In doing so, he pioneered a more naturalistic approach to writing superhero comics in the 1960s, 
+and in the 1970s he challenged the restrictions of the Comics Code Authority,</p>
+<img src= https://en.wikipedia.org/wiki/File:Stan_Lee_by_Gage_Skidmore_3.jpg< width= "500" height="200">
+
+</body>
+</html>
